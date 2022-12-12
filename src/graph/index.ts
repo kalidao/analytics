@@ -1,3 +1,4 @@
 import { useGetAllDaos } from "./useGetAllDaos";
+import { useGetAllMembers } from "./useGetAllMembers";
 
-export { useGetAllDaos }
+export { useGetAllDaos, useGetAllMembers }
